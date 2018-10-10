@@ -128,7 +128,6 @@ header .top_r {
   height: 35px;
   width: 481px;
   margin-left: 742px;
-  position: absolute;
   right: -25px;
   top: 0;
 }
@@ -139,7 +138,10 @@ header .top_r span {
   color: #cbcbcb;
   cursor: pointer;
 }
-
+header .top_r span a{
+  color:#333;
+  text-decoration:none;
+}
 header .top_r .one{
   margin-right: 12px;
 }
