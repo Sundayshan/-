@@ -1,4 +1,4 @@
-* {
+﻿* {
   text-decoration: none;
   font-family: "Microsoft Yahei", "微软雅黑", verdana;
   list-style: none;
@@ -139,7 +139,13 @@ header .top_r span {
   color: #cbcbcb;
   cursor: pointer;
 }
-
+header .top_r span a{
+  color:#ccc;
+  text-decoration:none;
+}
+header .top_r span:hover a{
+  color:#fff;
+}
 header .top_r .one{
   margin-right: 12px;
 }
