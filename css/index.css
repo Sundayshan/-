@@ -128,6 +128,7 @@ header .top_r {
   height: 35px;
   width: 481px;
   margin-left: 742px;
+  position: absolute;
   right: -25px;
   top: 0;
 }
